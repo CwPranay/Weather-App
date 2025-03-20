@@ -30,7 +30,10 @@
 }
 
 .search{
-  margin: 10px 10px 10px 10px;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 10px;
+  margin-bottom: 10px;
   display: flex;
   align-items: center;
   gap: 6px;
