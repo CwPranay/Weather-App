@@ -34,13 +34,8 @@
   margin-top: 10px;
   margin-bottom: 10px;
   display: flex;
-  align-items: center;
-  gap: 6px;
-  position: relative;
-  
-  
-  
-  
+ 
+  gap: 6px; 
 }
 .container .search input{
   border-radius: 15px;
